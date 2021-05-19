@@ -25,7 +25,8 @@
 <p> É possivel criar um novo objetos atribuindo diferente peso e capacidade de acordo e configurando isso após a criação, você é convidado para criar um objeto que será incrementado ao menu. 
 </p>
 <center><b>Exemplo de objeto, uma garrafa: </b></center> 
-``` package com.company.felipe;
+``` 
+package com.company.felipe;
 public class Bottle extends Containers {
     private int capacityMax;
     private double weight;
