@@ -16,7 +16,7 @@
 <p>Herança é um princípio de orientação a objetos, que permite que classes compartilhem atributos e métodos, através de "heranças". Ela é usada na intenção de reaproveitar código ou comportamento generalizado ou especializar operações ou atributos.</p>
 
 ## Polimorfismo 
-<p>polimorfismo é o princípio pelo qual duas ou mais classes derivadas da mesma superclasse podem invocar métodos que têm a mesma assinatura, mas comportamentos distintos.</p>
+<p>Polimorfismo é o princípio pelo qual duas ou mais classes derivadas da mesma superclasse podem invocar métodos que têm a mesma assinatura, mas comportamentos distintos.</p>
 
 # Como esse código aplica esse conceitos? 
 <small>Poo na prática</small>
@@ -24,3 +24,31 @@
 </p> 
 <p> É possivel criar um novo objetos atribuindo diferente peso e capacidade de acordo e configurando isso após a criação, você é convidado para criar um objeto que será incrementado ao menu. 
 </p>
+<center><b>Exemplo de objeto, uma garrafa: </b></center> 
+``` package com.company.felipe;
+
+public class Bottle extends Containers {
+
+    private int capacityMax;
+    private double weight;
+    private int currentValueMl;
+    private boolean thermal;
+
+    public Bottle() {
+        this.capacityMax = capacityMax;
+        this.weight = weight;
+        this.currentValueMl = currentValueMl;
+    }
+
+    public boolean isThermal() {
+        return thermal;
+    }
+
+    public void setThermal(boolean thermal) {
+        this.thermal = thermal;
+    }
+
+}
+```
+
+
