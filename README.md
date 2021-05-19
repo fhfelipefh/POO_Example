@@ -1,3 +1,3 @@
-<p align="center"><img src="logo.png"></p>
+# POO Example
 
- Um exemplo de POO em Java. 
+ Um exemplo de Pogramação orientada a objetos em Java. 
