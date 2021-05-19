@@ -1,3 +1,19 @@
 # POO Example
 
- Um exemplo de Pogramação orientada a objetos em Java. 
+## O que é POO? 
+<p> Programação orientada a objetos (POO) é um paradigma de programação baseado no conceito de "objetos", que podem conter dados na forma de campos, também conhecidos como atributos, e códigos, na forma de procedimentos, também conhecidos como métodos. 
+</p>
+<p> A POO é constituida de pilares que são requerimentos, sendo esses: Abstração,Encapsulamento,Herança,Polimorfismo os quais serão listados abaixo.
+</p>
+ 
+## Abstração
+<p> A abstração é o ponto de partida para a criação de programas utilizando POO. Trata-se da capacidade de extrair dos personagens ou dos itens presentes no contexto, suas principais características, criando, dessa forma, objetos. </p>
+
+## Encapsulamento 
+<p>Incluir ou proteger alguma coisa em uma cápsula, Encapsular os dados de uma aplicação significa evitar que estes sofram acessos indevidos. Para isso, é criada uma estrutura que contém métodos que podem ser utilizados por qualquer outra classe, sem causar inconsistências no desenvolvimento de um código. </p>
+
+## Herança
+<p>Herança é um princípio de orientação a objetos, que permite que classes compartilhem atributos e métodos, através de "heranças". Ela é usada na intenção de reaproveitar código ou comportamento generalizado ou especializar operações ou atributos.</p>
+
+## Polimorfismo 
+<p>polimorfismo é o princípio pelo qual duas ou mais classes derivadas da mesma superclasse podem invocar métodos que têm a mesma assinatura, mas comportamentos distintos.</p>
