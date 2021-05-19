@@ -20,10 +20,11 @@
 
 # Como esse código aplica esse conceitos? 
 <small>Poo na prática</small>
-<p> Nesse código é possivel a criação dos objetos Bottle e Cupoftea, ambos possuem uma capacidade,peso e um valor atual de liquido tais atributos foram herdados da classe mãe Containers, entretaneto os objetos possuem características próprias pelas quais existem métodos de acesso distintos.     
+<p> Nesse código é possivel a criação dos objetos Bottle e Cupoftea, ambos possuem uma capacidade, peso e um valor atual de liquido tais atributos foram herdados da classe mãe Containers, entretaneto os objetos possuem características próprias pelas quais existem métodos de acesso distintos.     
 </p> 
 <p> É possivel criar um novo objetos atribuindo diferente peso e capacidade de acordo e configurando isso após a criação, você é convidado para criar um objeto que será incrementado ao menu. 
 </p>
+<p>Métodos herdados: preencher,esvaziar,calcular peso.</p>
 
 <center><b>Exemplo de objeto, uma garrafa: </b></center> 
 
