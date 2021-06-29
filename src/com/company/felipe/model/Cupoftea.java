@@ -1,4 +1,4 @@
-package com.company.felipe;
+package com.company.felipe.model;
 
 public class Cupoftea extends Containers{
 

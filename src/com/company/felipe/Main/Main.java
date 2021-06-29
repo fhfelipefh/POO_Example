@@ -1,4 +1,7 @@
-package com.company.felipe;
+package com.company.felipe.Main;
+
+import com.company.felipe.model.Bottle;
+import com.company.felipe.model.Cupoftea;
 
 import java.util.Scanner;
 
