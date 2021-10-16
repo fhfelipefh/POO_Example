@@ -1,7 +1,7 @@
 package com.company.felipe.test;
 
 import com.company.felipe.model.Bottle;
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
 
